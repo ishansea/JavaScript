@@ -1,1 +1,1 @@
-# JavaScript
+A rep for learning JavaScript
